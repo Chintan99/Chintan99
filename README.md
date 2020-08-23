@@ -1,7 +1,8 @@
 # Hey There 👋, I am Chintan Chitroda  👨‍💻
 [![Kaggle](https://img.shields.io/static/v1?label=PersoanlSite&message=chintanchitroda.space&color=blue)](https://chintanchitroda.space)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Chintan99.Chintan99)
-___________
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/ChitrodaChintan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/chintanchitroda/)
 [![Kaggle](https://img.shields.io/static/v1?label&message=Kaggle&color=blue)](https://www.kaggle.com/chintanchitroda)
