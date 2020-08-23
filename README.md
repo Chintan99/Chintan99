@@ -14,7 +14,6 @@ ________
 ![GitHub license](https://img.shields.io/static/v1?label&message=Python&color=blue)
 ![GitHub license](https://img.shields.io/static/v1?label&message=Java&color=critical)
 ![GitHub license](https://img.shields.io/static/v1?label&message=CPP&color=lightgrey)
-___________________
 ##### Technologies:
 ![GitHub license](https://img.shields.io/static/v1?label&message=PyTorch&color=red)
 ![GitHub license](https://img.shields.io/static/v1?label&message=TensorFlow&color=orange)
@@ -24,5 +23,3 @@ ___________________
 _______________
 🌱 Learning all about **Open Source**
 
-<iframe src='www.chintanchitroda.space' ></iframe>
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
