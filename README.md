@@ -1,5 +1,6 @@
 # Hey There 👋, I am Chintan Chitroda  👨‍💻
-[![Kaggle](https://img.shields.io/static/v1?label=PersoanlSite&message=chintanchitroda.space&color=blue)](https://chintanchitroda.space) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+[![Kaggle](https://img.shields.io/static/v1?label=PersoanlSite&message=chintanchitroda.space&color)](https://chintanchitroda.space)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/ChitrodaChintan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/chintanchitroda/)
@@ -28,5 +29,10 @@ _______________
 🌱 Learning all about **Open Source**
 
 ## ⭐️ Packages:
+[![eazeml](https://img.shields.io/static/v1?label=PyPi&message=Eazeml&color)](https://pypi.org/project/eazeml/)
+![GitHub license](https://img.shields.io/github/license/Chintan99/eazeml?label=EazeML)
+
+Source Code:   https://github.com/Chintan99/eazeml
 
 ## ⭐️ Projects:
+https://github.com/Chintan99?tab=repositories
