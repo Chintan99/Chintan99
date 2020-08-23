@@ -1,5 +1,7 @@
-# Chintan Chitroda  👨‍💻
-
+# Hey There 👋, I am Chintan Chitroda  👨‍💻
+[![Kaggle](https://img.shields.io/static/v1?label=PersoanlSite&message=chintanchitroda.space&color=blue)](https://chintanchitroda.space)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Chintan99.Chintan99)
+___________
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/ChitrodaChintan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/chintanchitroda/)
 [![Kaggle](https://img.shields.io/static/v1?label&message=Kaggle&color=blue)](https://www.kaggle.com/chintanchitroda)
@@ -13,7 +15,10 @@ ________
 ![GitHub license](https://img.shields.io/static/v1?label&message=Deep_learning&color=orange)
 ![GitHub license](https://img.shields.io/static/v1?label&message=Python&color=blue)
 ![GitHub license](https://img.shields.io/static/v1?label&message=Java&color=critical)
-![GitHub license](https://img.shields.io/static/v1?label&message=CPP&color=lightgrey)
+![GitHub license](https://img.shields.io/static/v1?label&message=C/CPP&color=lightgrey)
+<br>
+![GitHub license](https://img.shields.io/static/v1?label&message=Compute_Vision&color=blueviolet)
+![GitHub license](https://img.shields.io/static/v1?label&message=Natural_Language_Processing&color=9cf)
 ##### Technologies:
 ![GitHub license](https://img.shields.io/static/v1?label&message=PyTorch&color=red)
 ![GitHub license](https://img.shields.io/static/v1?label&message=TensorFlow&color=orange)
@@ -23,3 +28,6 @@ ________
 _______________
 🌱 Learning all about **Open Source**
 
+## ⭐️ Packages:
+
+## ⭐️ Projects:
